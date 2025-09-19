@@ -1,2 +1,2 @@
 # End-to-End-VQA
-E2E
+Feel free to check them out. Basically a learning repository where I learn about Visual-Question Answering.
